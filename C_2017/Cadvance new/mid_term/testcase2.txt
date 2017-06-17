@@ -1,0 +1,7 @@
+6
+"Mai" "Lan"
+"Lan" "Cuc"
+"Cuc" "Truc"
+"Truc" "Lan"
+"Toan" "Hoang"
+"Hoang" "An"

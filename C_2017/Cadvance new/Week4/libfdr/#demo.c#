@@ -1,0 +1,8 @@
+#include<stdio.h>
+#include "jval.h"
+int main(){
+  Jval a;
+  a = new_jval_i(5);
+  printf("So: %d\n",jval_i(a));
+  return 0;
+}

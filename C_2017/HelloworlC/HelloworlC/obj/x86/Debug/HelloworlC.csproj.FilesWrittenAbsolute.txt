@@ -1,0 +1,6 @@
+/home/nambker/C_2017/HelloworlC/HelloworlC/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nambker/C_2017/HelloworlC/HelloworlC/obj/x86/Debug/HelloworlC.gtk-gui.gui.stetic
+/home/nambker/C_2017/HelloworlC/HelloworlC/bin/Debug/HelloworlC.exe.mdb
+/home/nambker/C_2017/HelloworlC/HelloworlC/bin/Debug/HelloworlC.exe
+/home/nambker/C_2017/HelloworlC/HelloworlC/obj/x86/Debug/HelloworlC.exe
+/home/nambker/C_2017/HelloworlC/HelloworlC/obj/x86/Debug/HelloworlC.exe.mdb

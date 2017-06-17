@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1493824172 source:/home/nambker/C_2017/final_C/project_tudien/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<termios.h>
+	<unistd.h>
+	<time.h>
+	"soundex.h"
+	"btree.h"
+
+1493824161 /home/nambker/C_2017/final_C/project_tudien/soundex.h
+	"soundex.c"
+
+1307993686 /home/nambker/C_2017/final_C/project_tudien/btree.h
+	"bt.h"
+
+1349639370 /home/nambker/C_2017/final_C/project_tudien/bt.h
+	<stdio.h>
+	"bc.h"
+
+1352981937 /home/nambker/C_2017/final_C/project_tudien/bc.h
+	<limits.h>
+
+1493824147 /home/nambker/C_2017/final_C/project_tudien/soundex.c
+

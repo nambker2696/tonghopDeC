@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1489724497 source:/home/nambker/C_2017/week4/homework1/strisort/main.c
+	<stdio.h>
+	<string.h>
+	"jrb.h"
+	"fields.h"
+
+979678704 /home/nambker/C_2017/week4/homework1/strisort/jrb.h
+	"jval.h"
+
+979678722 /home/nambker/C_2017/week4/homework1/strisort/jval.h
+
+979678686 /home/nambker/C_2017/week4/homework1/strisort/fields.h
+	<stdio.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1489719866 source:/home/nambker/C_2017/week5/main.c
+	<stdio.h>
+	<stdlib.h>
+	"jval.h"
+
+979678722 /home/nambker/C_2017/week5/jval.h
+
